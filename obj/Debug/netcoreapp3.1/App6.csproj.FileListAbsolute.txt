@@ -1,0 +1,11 @@
+C:\Users\sergi\source\repos\App6\bin\Debug\netcoreapp3.1\App6.exe
+C:\Users\sergi\source\repos\App6\bin\Debug\netcoreapp3.1\App6.deps.json
+C:\Users\sergi\source\repos\App6\bin\Debug\netcoreapp3.1\App6.runtimeconfig.json
+C:\Users\sergi\source\repos\App6\bin\Debug\netcoreapp3.1\App6.runtimeconfig.dev.json
+C:\Users\sergi\source\repos\App6\bin\Debug\netcoreapp3.1\App6.dll
+C:\Users\sergi\source\repos\App6\bin\Debug\netcoreapp3.1\App6.pdb
+C:\Users\sergi\source\repos\App6\obj\Debug\netcoreapp3.1\App6.csprojAssemblyReference.cache
+C:\Users\sergi\source\repos\App6\obj\Debug\netcoreapp3.1\App6.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\App6\obj\Debug\netcoreapp3.1\App6.AssemblyInfo.cs
+C:\Users\sergi\source\repos\App6\obj\Debug\netcoreapp3.1\App6.dll
+C:\Users\sergi\source\repos\App6\obj\Debug\netcoreapp3.1\App6.pdb
